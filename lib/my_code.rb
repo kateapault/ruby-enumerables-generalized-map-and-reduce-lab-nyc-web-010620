@@ -8,5 +8,5 @@ end
 
 def reduce(source_array, starting_point = 0)
   x = starting_point
-  x
+  
 end
