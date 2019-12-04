@@ -8,7 +8,7 @@ def map(source_array, block)
   end
   
   puts block
-  output
+
 end
 
 def reduce(source_array, starting_point = 0)
