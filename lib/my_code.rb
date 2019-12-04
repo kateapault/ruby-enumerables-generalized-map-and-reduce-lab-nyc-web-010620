@@ -7,7 +7,7 @@ def map(source_array, block)
     end
   end
   
-  output = dry_map(source_array) block
+  puts block
   output
 end
 
